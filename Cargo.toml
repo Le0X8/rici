@@ -2,5 +2,8 @@
 name = "rici"
 version = "0.1.0"
 edition = "2021"
+description = "Running in Continuous Integration?"
+license = "MIT"
+repository = "https://github.com/Le0X8/rici"
 
 [dependencies]
